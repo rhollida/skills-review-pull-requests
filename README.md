@@ -21,9 +21,9 @@ _Collaborate and work together on GitHub._
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Open a pull request
+## Step 1: Create a pull request
 
-_Welcome to "Review pull requests"! :wave:_
+_Welcome to "Review pull requests"! 😸:_
 
 Let's get started by opening a pull request.
 
